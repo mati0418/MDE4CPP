@@ -9,7 +9,7 @@ SET MDE4CPP_HOME=%cd%
 
 REM path to eclipse home folder including Acceleo plugins
 REM required for creating the generators
-SET MDE4CPP_ECLIPSE_HOME=C:\tools\eclipse\eclipse-modeling-2020-9\eclipse1\eclipse1
+SET MDE4CPP_ECLIPSE_HOME=C:\tools\eclipse\eclipse-modeling-2020-09\eclipse1\eclipse1
 
 
 REM ##################################################
